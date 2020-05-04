@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Notion  Netlify Blog 构建脚本
-// @namespace    notion_blog
+// @name         Notion to Netlify
 // @version      0.2
 // @description  在 Notion 中一键触发 Netlify 构建
+// @namespace    notion_blog
 // @author       superman66
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
 // @grant        GM_xmlhttpRequest
